@@ -1,1 +1,1 @@
-# POWR-Rocket
+This repository contains the source code of the website portion of my senior capstone project along with the progress report that describes the project in full detail. The individuals that I have worked with to develop this project are Sage Bonfield, Thomas Knepshield, and Tyler Roux. Tyler Roux and I have worked with one another to develop the website.
